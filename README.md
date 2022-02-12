@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fabricio Velasco  👋
 
 - 🔭 Estou trabalhando com front-end
-- 🌱 Estou estudando Python e reciclando todo front-end
+- 🌱 Estou estudando Python, JavaScript, Node, React 
 ##
 <div align="center">
   <a href="https://github.com/fabricioronaldo">
