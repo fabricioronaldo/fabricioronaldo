@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fabricio Velasco  👋
 
-- 🔭 Estou trabalhando com front-end
+- 🔭 Sou desenvolvedor front-end e estou em busca da minha primeira oportunidade de trabalho na área. 
 - 🌱 Estou estudando Python, JavaScript, Node, React 
 ##
 <div align="center">
@@ -25,7 +25,7 @@
   <a href="https://instagram.com/fabriciorvelasco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Fabricio Ronaldo#2338" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabriciorvelasco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabricio-velasco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/fabricio-velasco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   
 </div>
