@@ -1,7 +1,9 @@
 ### Olá! Eu sou o Fabricio Velasco  👋
 
-- 🔭 Sou desenvolvedor front-end e estou em busca da minha primeira oportunidade de trabalho na área. 
-- 🌱 Estou estudando Python, JavaScript, Node, React 
+- Sou desenvolvedor Front-End utilizando as tecnologias HTML, CSS, JavaScript. Sou apaixonado por tecnologia, desenvolvimento e solução de problemas.
+
+ - Possuo conhecimentos em HTML, CSS, JavaScript, SQL, Git e atualmente estou me aprofundando em JavaScript para melhorar meu conhecimento e posteriormente React. 
+
 ##
 <div align="center">
   <a href="https://github.com/fabricioronaldo">
