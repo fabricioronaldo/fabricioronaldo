@@ -2,7 +2,7 @@
 
 - Sou desenvolvedor Front-End utilizando as tecnologias HTML, CSS, JavaScript. Sou apaixonado por tecnologia, desenvolvimento e solução de problemas.
 
- - Possuo conhecimentos em HTML, CSS, JavaScript, SQL, Git e atualmente estou me aprofundando em JavaScript para melhorar meu conhecimento e posteriormente React. 
+ - Possuo conhecimentos em HTML, CSS, JavaScript, SQL, Git, Tailwind Css, Sass e atualmente estou me aprofundando em Java, Python e estudando React. 
 
 ##
 <div align="center">
